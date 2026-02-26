@@ -1,0 +1,501 @@
+{
+  "News": [
+    {
+      "name": "Al Mayadeen*",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UCLaJbSWEyamrbyiLWCXL8AA&autoplay=1",
+      "type": "iframe"
+    },
+    {
+      "name": "Al Manar",
+      "url": "https://edge.fastpublish.me/live/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://live-hls-web-aja-gcp.thehlive.com/AJA/04.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Jazeera Mub",
+      "url": "https://live-hls-web-ajm.getaj.net/AJM/05.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Araby",
+      "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_360p/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Arabia",
+      "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_360p/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Hadath",
+      "url": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_360p/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Russia Today",
+      "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist_800Kb.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "France 24",
+      "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "BBC Arabia",
+      "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Masira",
+      "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/Almasirah/Almasirah_480p/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Syria News",
+      "url": "https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_480p/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Alam",
+      "url": "https://live2.alalam.ir/live/Alalam_high/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://cnbc-live.akamaized.net/cnbc/master_360p.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Asharaq",
+      "url": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/bloomberarpublish/bloomberg_480p/chunks_dvr.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Mayadeen",
+      "url": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Shrine",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UC-IYgdWMbKsZI5ZCzK1sk3Q&autoplay=1",
+      "type": "iframe"
+    }
+  ],
+  "Movies": [
+    {
+      "name": "MBC 1",
+      "url": "https://tv.qanwatlive.com/2025/03/1_17.html",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC 2",
+      "url": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=mbc2",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC MAX",
+      "url": "https://tv.qanwatlive.com/2025/03/blog-post_0.html",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC Drama",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcdrama_tv_1",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC Drama Plus",
+      "url": "https://www.elahmad.com/tv/watchtv.php?id=mbc_drama_plus",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC Masr",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbcmasr_tv_1",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC Masr 2",
+      "url": "https://tv.qanwatlive.com/2025/03/2.html",
+      "type": "iframe"
+    },
+    {
+      "name": "MBC Drama Masr",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_masr_drama",
+      "type": "iframe"
+    },
+    {
+      "name": "PNC Drama",
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8?ads.vf=xdliEBYtdWS",
+      "type": "hls"
+    },
+    {
+      "name": "Roya Drama",
+      "url": "https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/2.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Rotana Aflam",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=rotana_aflam",
+      "type": "iframe"
+    },
+    {
+      "name": "cbc",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
+      "type": "iframe"
+    },
+    {
+      "name": "Mix Movies",
+      "url": "https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Mix Arabi",
+      "url": "https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Alhayat Drama",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_drama",
+      "type": "iframe"
+    },
+    {
+      "name": "Nile Drama",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nile_drama",
+      "type": "iframe"
+    },
+    {
+      "name": "CBC Drama",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1",
+      "type": "iframe"
+    },
+    {
+      "name": "DMC Drama",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+      "type": "iframe"
+    }
+  ],
+  "Lebanon": [
+    {
+      "name": "Al Manar",
+      "url": "https://edge.fastpublish.me/live/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Ittihad",
+      "url": "https://live.alittihad.tv:444/ittihad/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Jadeed",
+      "url": "https://live.eaglestv.vip/html/jado.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Red TV",
+      "url": "https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "MTV",
+      "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "LTV",
+      "url": "https://p-ltv.akamaized.net/ltv/ltv.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "LBCI",
+      "url": "https://www.elahmad.com/tv/watchtv.php?id=lbc",
+      "type": "iframe"
+    },
+    {
+      "name": "LB2",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=lb2",
+      "type": "iframe"
+    },
+    {
+      "name": "NBN",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=nbn",
+      "type": "iframe"
+    },
+    {
+      "name": "Assirat",
+      "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "OTV",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1",
+      "type": "iframe"
+    },
+    {
+      "name": "Tele Liban",
+      "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Iman",
+      "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "MTV One",
+      "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Al Manar *",
+      "url": "https://ok.ru/videoembed/10157625056920?nochat=1&autoplay=1",
+      "type": "iframe"
+    },
+    {
+      "name": "Al Jadeed *",
+      "url": "https://www.elahmad.com/tv/watchtv.php?id=aljadeed",
+      "type": "iframe"
+    },
+    {
+      "name": "Al Jadeed 1",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljadeed1",
+      "type": "iframe"
+    },
+    {
+      "name": "Al Jadeed**",
+      "url": "https://samaflix.com:12103/channel7/tracks-v3a1/mono.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "LBCI 1",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=lbc_1",
+      "type": "iframe"
+    },
+    {
+      "name": "NBN 1",
+      "url": "https://www.web24iptv.online/f?ch=nbn",
+      "type": "iframe"
+    },
+    {
+      "name": "Tele Liban 1",
+      "url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "MTV 1",
+      "url": "https://www.yallatv.online/files/player/shaka_f.php?ch=mtv",
+      "type": "iframe"
+    },
+    {
+      "name": "OTV 1",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=otv_lb1",
+      "type": "iframe"
+    }
+  ],
+  "Radio": [
+    {
+      "name": "Al Nour",
+      "url": "https://live.eaglestv.vip/html/nour.html",
+      "type": "iframe"
+    },
+    {
+      "name": "LBCI Radio",
+      "url": "https://live.eaglestv.vip/html/lbcr.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Manar Radio",
+      "url": "https://edge.fastpublish.me/live/tracks-a1/mono.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Sawt Chaab",
+      "url": "https://live.eaglestv.vip/html/chaab.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Sawt ElGhad",
+      "url": "https://live.eaglestv.vip/html/ghad.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Voice du Liban",
+      "url": "https://live.eaglestv.vip/html/vdl.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Antena 1",
+      "url": "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist_DVR.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "TSF Radio",
+      "url": "https://live.eaglestv.vip/html/tsf.html",
+      "type": "iframe"
+    },
+    {
+      "name": "Radio Commercial",
+      "url": "https://live.eaglestv.vip/html/com.html",
+      "type": "iframe"
+    }
+  ],
+  "Kids": [
+    {
+      "name": "Moonbug",
+      "url": "https://moonbug-rokuus.amagi.tv/360p-cc/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Rotana Kids",
+      "url": "https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo",
+      "type": "hls"
+    },
+    {
+      "name": "Taha TV",
+      "url": "https://media1.livaat.com/static/TAHA_TV/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Baraem TV",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=baraem",
+      "type": "iframe"
+    },
+    {
+      "name": "Toyor Aljanah",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UCZbpK_Lgctew3YNELlG2ecw&autoplay=1",
+      "type": "iframe"
+    },
+    {
+      "name": "Roya Kids",
+      "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/2.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Spacetoon",
+      "url": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=spacetoon",
+      "type": "iframe"
+    },
+    {
+      "name": "Cartoonito",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UC6HsfRuJ6VtRU063tLbhujQ&autoplay=1",
+      "type": "iframe"
+    },
+    {
+      "name": "The Smurfs",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UCBZLg-ixSGqEjh3ld7nSwLg&autoplay=1",
+      "type": "iframe"
+    },
+    {
+      "name": "CN Arabic",
+      "url": "https://www.youtube.com/embed/live_stream?channel=UCV_UnXMvco4uaqeMMBMWcxA&autoplay=1",
+      "type": "iframe"
+    }
+  ],
+  "Portugal": [
+    {
+      "name": "RTP Internacional",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "RTP Noticias",
+      "url": "https://live.eaglestv.vip/html/rtp3.html",
+      "type": "iframe"
+    },
+    {
+      "name": "CNN PT",
+      "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "SIC",
+      "url": "https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "TVI",
+      "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "ARTV Canal",
+      "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "TVI Reality",
+      "url": "https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8",
+      "type": "hls"
+    }
+  ],
+  "Sports": [
+    {
+      "name": "Abu Dhabi Sports 1",
+      "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Abu Dhabi Sports 2",
+      "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+      "type": "iframe"
+    },
+    {
+      "name": "Alkass 3",
+      "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "beIN SPORTS Turkiye",
+      "url": "https://www.youtube-nocookie.com/embed/9xVXWLwT0vA",
+      "type": "iframe"
+    },
+    {
+      "name": "L'Equipe 1",
+      "url": "https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Real Madrid TV",
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Dubai Sports 1",
+      "url": "https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1300000.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Dubai Sports 2",
+      "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "Dubai Sports 3",
+      "url": "https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "KTV Sport",
+      "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "KTV Sport Plus",
+      "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+      "type": "hls"
+    },
+    {
+      "name": "KSA Sports",
+      "url": "https://www.elahmad.com/tv/watchtv.php?id=saudi_sport",
+      "type": "iframe"
+    }
+  ]
+}
