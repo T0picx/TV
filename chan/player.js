@@ -24,7 +24,7 @@ let hls, channels = {};
 
 async function loadChannels() {
   try {
-    const res = await fetch('channels.json');
+    const res = await fetch('https://cdn.jsdelivr.net/gh/T0picx/TV@main/chan/channels.json');
     channels = await res.json();
     populateChannels(categorySelect.value);
   } catch (err) {
